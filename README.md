@@ -12,4 +12,4 @@
 
 #### Make sure you are inside your conda virtual environment
 
-`conda install -n REPLACE-ME --file requirements.txt`
+`pip install -r requirements.txt`
