@@ -1,0 +1,6 @@
+langchain-ollama
+requests
+beautifulsoup4
+openai
+gradio
+ipywidgets
